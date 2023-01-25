@@ -1,0 +1,68 @@
+h1 {
+	text-align: center;
+	text-shadow: 0 0 10px white;
+	margin-top: 102px;
+
+}
+
+img {
+	width: 250px;
+	height: 290px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+}
+
+h2 {
+	color: white;
+	text-shadow: 0 0 10px white;
+
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	border: white 2px solid;
+	background: darkslategrey;
+	text-shadow: 0 0 10px white;
+	padding: 3px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+
+body {
+	background: black;
+	text-align: center;
+}
+
+div {
+	border: white 2px solid; 
+	display: inline-block;
+	text-align: center;
+	background: black;
+	padding: 10px;
+	margin-top: 102px;
+	border-radius: 20px;
+}
+
+h1 {
+	color: white;
+}
+.BreakingBad {
+	color: lightskyblue;
+}
+.Baller {
+	color: yellow;
+}
+.Morbius {
+	color: #3b9c90;
+}
+.Saul {
+	color: red;
+}
+.zombiie {
+	color: darkred;
+	text-shadow: none;
+}
+.cho {
+	color: ;
+}
